@@ -1,0 +1,38 @@
+var images = [{
+    'url': 'img/montana.jpg',
+    'Desc': '1'
+    },
+    {
+    'url': 'img/guitarra.jpg',
+    'Desc': '2'
+    },
+    {
+    'url': 'img/edificio.jpg',
+    'Desc': '3'
+    },
+    {
+    'url': 'img/arbol.jpg',
+    'Desc': '4'
+    },
+    {
+    'url': 'img/tunnel.jpg',
+    'Desc': '4'
+    },
+    {
+    'url': 'img/computador.jpg',
+    'Desc': '5'
+    },   
+    {
+    'url': 'img/byw.jpg',
+    'Desc': '6'
+    },   
+    {
+    'url': 'img/person2.jpg',
+    'Desc': '7'
+    },   
+    {
+    'url': 'img/car.jpg',
+    'Desc': '8'
+    }
+    
+]
